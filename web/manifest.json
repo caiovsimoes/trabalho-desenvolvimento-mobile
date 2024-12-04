@@ -1,6 +1,6 @@
 {
-    "name": "projeto",
-    "short_name": "projeto",
+    "name": "hello_world",
+    "short_name": "hello_world",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
